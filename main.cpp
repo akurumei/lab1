@@ -7,7 +7,7 @@
 
 // Функція для перевірки, чи всі літери в слові унікальні
 bool hasUniqueLetters(const std::string& word) {
-    std::unordered_set<char> letters; //контейнер для зберігання унікальних літер кожного слова
+    std::unordered_set<char> letters; 
     for (char c : word) {
         if (letters.count(c)) {
             return false; // Літера повторюється
