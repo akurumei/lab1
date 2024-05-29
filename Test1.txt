@@ -1,0 +1,11 @@
+Unique words: programming, developer, computer, unique, qwerty, asdfghjkl, zxcvbnm, binary, search, algorithm.
+Repeating words: apple, banana, test, words, different, challenges, educational, example, laptop.
+Mixed case words: House, TREE, Car, KEYBOARD, school, Book, desk, Pen, pEncil.
+Symbols and punctuation: test@case.com, some.email+spam@gmail.com, phone-number: 123-456-7890.
+Long words exceeding limit: pneumonoultramicroscopicsilicovolcanoconiosis, supercalifragilisticexpialidocious, hippopotomonstrosesquippedaliophobia.
+Words with numbers: abc123, test456, seven8nine.
+Empty strings, multiple spaces, and special characters:    hello     world      test      12345     abcdefg     hijklmnop   .
+Single character words: a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z.
+Duplicate words in different cases: Hello, hello, WORLD, world, Program, program, Test, test.
+Additional test cases: 123test, test!case, word.with.dots, words-hyphenated, under_score_words.
+Another set of unique letters: acronym, beg, dock, fact, grip, heir, joke, lump, next, oval, pact, quiz, rift, silk, tomb, ugly, vial, whim, xenon, yoke, zeal.
